@@ -25,8 +25,8 @@ To trigger the issue you can run the following from the command line:
 generate_data && process_data
 Running this a few times in a row should definitely trigger the mentioned error.
 Can you:
-1) Explain what causes the intermittent error?
-2) Fix the intermittent error?
+1) What all are the possibilities that may cause this intermetent error
+2) Fix for each cause you mentioned ?
 3) Explain the steps you took troubleshooting this intermittent error?
 
 
